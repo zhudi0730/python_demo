@@ -1,0 +1,7 @@
+{
+  "name": "R201",
+  "ip": "192.168.3.9",
+  "collect_time": 1,
+  "refresh_time": 30,
+  "data_num": 3600
+}
